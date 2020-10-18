@@ -1,237 +1,237 @@
-abide abode abode demeurer 
-arise arisen arose survenir 
-awake awoken awoke se réveiller 
-be been was/were être 
-bear borne bore porter 
-beat beaten beat battre 
-become become became devenir 
-befall befalen befell advenir 
-beget begotten begat engendrer 
-begin begun began commencer 
-behold beheld beheld voir 
-bend bent bent se courber 
-bereave bereft bereft déposséder 
-beseech besought besought implorer 
-beset beset beset assaillir 
-bet bet bet parier 
-bid bidden bade ordonner 
-bind bound bound lier 
-bite bitten bit mordre 
-bleed bled bled saigner 
-bless blessed blessed bénir 
-blow blown blew souffler 
-break broken broke casser 
-breed bred bred élever 
-bring brought brought apporter 
-broadcast broadcast broadcast diffuser (radio) 
-browbeat browbeaten browbeat intimider 
-build built built construire 
-burn burnt burnt brûler 
-burst burst burst éclater 
-buy bought bought acheter 
-cast cast cast jeter 
-catch caught caught attraper 
-chide chidden chid gronder 
-choose chosen chose choisir 
-cleave cleft cleft fendre 
-cling clung clung se cramponner 
-come come came venir 
-cost cost cost coûter 
-creep crept crept ramper 
-crow crowed crew chanter (coq) 
-cut cut cut couper 
-deal dealt dealt distribuer/traiter 
-dig dug dug bêcher 
-dive dived dived plonger 
-do done did faire 
-draw drawn drew dessiner 
-dream dreamt dreamt rêver 
-drink drunk drank boire 
-drive driven drove conduire 
-dwell dwelt dwelt habiter/rester 
-eat eaten ate manger 
-fall fallen fell tomber 
-feed fed fed nourrir 
-feel felt felt se sentir 
-fight fought fought combattre 
-find found found trouver 
-flee fled fled fuir 
-fling flung flung jeter 
-floodlight floolit floodlit illuminer 
-fly flown flew voler 
-forbear forborn forbore s'abstenir 
-forbid forbade forbade interdire 
-forecast forcast forecast prévoir 
-foresee foreseen foresaw prévoir 
-foretell foretold foretold prédire 
-forget forgotten forgot oublier 
-forgive forgiven forgave pardonner 
-forsake forsaken forsook abandonner 
-forswear forsworm forswore renoncer à 
-freeze frozen froze geler 
-gainsay gainsaid gainsaid refuter 
-get got got obtenir 
-gird girt girt ceindre 
-give given gave donner 
-go gone went aller 
-grind ground ground moudre 
-grow grown grew pousser 
-hamstring hamstrung hamstrung paralyser 
-hang hung hung pendre 
-have had had avoir 
-hear heard heard entendre 
-heave hove hove hisser 
-hew hewn hewed tailler 
-hide hidden hid se cacher 
-hit hit hit frapper 
-hold held held tenir 
-hurt hurt hurt nuire 
-inlay inlaid inlaid incruster 
-input input input saisir (PC) 
-inset inset inset insérer 
-interweave interwoven interwove entrelacer 
-keep kept kept garder 
-kneel knelt knelt s'agenouiller 
-knit knit knit tricoter 
-know known knew savoir 
-lay lain lay étendre 
-lead led led mener 
-lead led led mener 
-lean leant leant pencher 
-leap leapt leapt bondir 
-learn learnt learnt apprendre 
-leave left left quitter 
-lend lent lent prêter 
-let let let laisser 
-lie lay lay reposer 
-light lit lit allumer 
-lose lost lost perdre 
-make made made faire 
-mean meant meant signifier 
-meet met met rencontrer 
-mow mown mowed tondre 
-outbid outbid outbid surenchérir 
-outdo outdone outdid surpasser 
-outrun outrun outrun distancer 
-overdo overdone overdid exagérer 
-overfly overflown overflew survoler 
-overhang overhung overhung surplomber 
-overlay overlaid overlaid recouvrir 
-oversee overseen oversaw superviser 
-overthrow overthrown overthrew renverser 
-partake partaken partook prendre 
-pay paid paid payer 
-plead pleaded pleaded supplier 
-prove proven proved prouver 
-put put put mettre 
-quit quit quit quitter 
-read read read lire 
-rebuild rebuilt rebuilt reconstruire 
-recast recast recast reformuler 
-redo redone redid refaire 
-remake remade remade refabriquer 
-rend rent rent déchirer 
-repay repaid repaid rembourser 
-resell resold resold revendre 
-reset reset reset remettre à l'heure 
-resit resat resat repasser un examen 
-retell retold retold redire 
-rethink rethought rethought repenser 
-rewrite rewritten rewrote réécrire 
-rid ridden rid se débarrasser 
-ride ridden rode monter (cheval, vélo) 
-ring rung rang sonner 
-rise risen rose se lever 
-run run ran courir 
-saw sawn sawed scier 
-say said said dire 
-see seen saw voir 
-seek sought sought chercher 
-sell sold sold vendre 
-send sent sent envoyer 
-set set set mettre 
-sew sewn sew coudre 
-shake shaken shook secouer 
-shear shorn sheared tondre 
-shed shed shed perdre (feuilles) 
-shine shone shone briller 
-shoe shod shod chausser 
-shoot shot shot tirer (arme) 
-show shown showed montrer 
-shrink shrunk shrank se contracter 
-shrive shriven shrove absoudre 
-shut shut shut fermer 
-sing sung sang chanter 
-sink sunk sank couler 
-sit sat sat s'asseoir 
-slay slain slew tuer 
-sleep slept slept dormir 
-slide slid slid glisser 
-sling slung slung lancer 
-slink slunk slunk aller furtivement 
-slit slit slit fendre 
-smell smelt smelt sentir 
-sow sown sowed semer 
-speak spoken spoke parler 
-speed sped sped se presser 
-spell spelt spelt épeler 
-spend spent spent dépenser 
-spill spilt spilt se renverser 
-spin spun span faire tourner 
-spit span spat cracher 
-split split split fendre 
-spoil spoilt spoilt abîmer/gâter 
-spread spread spread étendre 
-spring sprung sprang bondir 
-stand stood stood être debout 
-steal stolen stole voler 
-stick stuck stuck coller 
-sting stung stung piquer 
-stink stunk stank puer 
-strew strewn strew semer 
-stride stridden strode marcher à grands pas 
-strike struck struck frapper 
-string strung strung ficeler 
-strive striven strove s'efforcer 
-sublet sublet sublet sous-louer 
-swear sworn swore jurer 
-sweat sweated sweated transpirer 
-sweep swept swept balayer 
-swell swollen swelled gonfler 
-swim swum swam nager 
-swing swung swung balancer 
-take taken took prendre 
-teach taught taught enseigner 
-tear torn tore déchirer 
-tell told told raconter 
-think thought thought penser 
-thrive thriven throve prospérer 
-throw thrown threw lancer 
-thrust thrust thrust pousser 
-tread trodden trod piétiner 
-unbend unbent unbent détordre 
-unbind unbound unbound délier 
-undercut undercut undercut concurrencer 
-understand understood understood comprendre 
-undertake undertaken undertook entreprendre 
-underwrite underwritten underwrote souscrire 
-undo undone undid défaire 
-unfreeze unfrozen unfroze dégeler 
-unstick unstuck unstuck décoller 
-unwind unwound unwound dérouler 
-uphold upheld upheld soutenir 
-upset upset upset contrarier 
-wake woken woke se réveiller 
-waylay waylaid waylaid harponner 
-wear worn wore porter 
-weave woven wove tisser 
-wed wed wed épouser 
-weep wept wept pleurer 
-wet wet wet mouiller 
-win won won gagner 
-wind wound wound remonter 
-withdraw withdrawn withdrew renoncer à 
-withhold withheld withheld différer 
-withstand withstood withstood résister à 
-wring wrung wrung tordre 
-write written wrote écrire 
+abide abode abode 
+arise arisen arose 
+awake awoken awoke 
+be been was/were 
+bear borne bore 
+beat beaten beat 
+become become became 
+befall befalen befell 
+beget begotten begat 
+begin begun began 
+behold beheld beheld 
+bend bent bent se 
+bereave bereft bereft 
+beseech besought besought 
+beset beset beset 
+bet bet bet 
+bid bidden bade 
+bind bound bound 
+bite bitten bit 
+bleed bled bled 
+bless blessed blessed 
+blow blown blew 
+break broken broke 
+breed bred bred 
+bring brought brought 
+broadcast broadcast broadcast 
+browbeat browbeaten browbeat 
+build built built 
+burn burnt burnt 
+burst burst burst 
+buy bought bought 
+cast cast cast 
+catch caught caught 
+chide chidden chid 
+choose chosen chose 
+cleave cleft cleft 
+cling clung clung 
+come come came 
+cost cost cost 
+creep crept crept 
+crow crowed crew 
+cut cut cut 
+deal dealt dealt 
+dig dug dug 
+dive dived dived 
+do done did 
+draw drawn drew 
+dream dreamt dreamt 
+drink drunk drank 
+drive driven drove 
+dwell dwelt dwelt 
+eat eaten ate 
+fall fallen fell 
+feed fed fed 
+feel felt felt 
+fight fought fought 
+find found found 
+flee fled fled 
+fling flung flung 
+floodlight floolit floodlit 
+fly flown flew 
+forbear forborn forbore 
+forbid forbade forbade 
+forecast forcast forecast 
+foresee foreseen foresaw 
+foretell foretold foretold 
+forget forgotten forgot 
+forgive forgiven forgave 
+forsake forsaken forsook 
+forswear forsworm forswore 
+freeze frozen froze 
+gainsay gainsaid gainsaid 
+get got got 
+gird girt girt 
+give given gave 
+go gone went 
+grind ground ground 
+grow grown grew 
+hamstring hamstrung hamstrung 
+hang hung hung 
+have had had 
+hear heard heard 
+heave hove hove 
+hew hewn hewed 
+hide hidden hid 
+hit hit hit 
+hold held held 
+hurt hurt hurt 
+inlay inlaid inlaid 
+input input input 
+inset inset inset 
+interweave interwoven interwoven 
+keep kept kept 
+kneel knelt knelt 
+knit knit knit 
+know known knew 
+lay lain lay 
+lead led led 
+lead led led 
+lean leant leant 
+leap leapt leapt 
+learn learnt learnt 
+leave left left 
+lend lent lent 
+let let let 
+lie lay lay 
+light lit lit 
+lose lost lost 
+make made made 
+mean meant meant 
+meet met met 
+mow mown mowed 
+outbid outbid outbid 
+outdo outdone outdid 
+outrun outrun outrun 
+overdo overdone overdid 
+overfly overflown overflew 
+overhang overhung overhung 
+overlay overlaid overlaid 
+oversee overseen oversaw 
+overthrow overthrown overthrew 
+partake partaken partook 
+pay paid paid 
+plead pleaded pleaded 
+prove proven proved 
+put put put 
+quit quit quit 
+read read read 
+rebuild rebuilt rebuilt 
+recast recast recast 
+redo redone redid 
+remake remade remade 
+rend rent rent 
+repay repaid repaid 
+resell resold resold 
+reset reset reset 
+resit resat resat 
+retell retold retold 
+rethink rethought rethought 
+rewrite rewritten rewrote 
+rid ridden rid 
+ride ridden rode 
+ring rung rang 
+rise risen rose 
+run run ran 
+saw sawn sawed 
+say said said 
+see seen saw 
+seek sought sought 
+sell sold sold 
+send sent sent 
+set set set 
+sew sewn sew 
+shake shaken shook 
+shear shorn sheared 
+shed shed shed perdre 
+shine shone shone 
+shoe shod shod 
+shoot shot shot 
+show shown showed 
+shrink shrunk shrank 
+shrive shriven shrove 
+shut shut shut 
+sing sung sang 
+sink sunk sank 
+sit sat sat 
+slay slain slew 
+sleep slept slept 
+slide slid slid 
+sling slung slung 
+slink slunk slunk 
+slit slit slit 
+smell smelt smelt 
+sow sown sowed 
+speak spoken spoke 
+speed sped sped 
+spell spelt spelt 
+spend spent spent 
+spill spilt spilt 
+spin spun span 
+spit span spat 
+split split split 
+spoil spoilt spoilt 
+spread spread spread 
+spring sprung sprang 
+stand stood stood 
+steal stolen stole 
+stick stuck stuck 
+sting stung stung 
+stink stunk stank 
+strew strewn strew 
+stride stridden strode 
+strike struck struck 
+string strung strung 
+strive striven strove 
+sublet sublet sublet 
+swear sworn swore 
+sweat sweated sweated 
+sweep swept swept 
+swell swollen swelled 
+swim swum swam 
+swing swung swung 
+take taken took 
+teach taught taught 
+tear torn tore 
+tell told told 
+think thought thought 
+thrive thriven throve 
+throw thrown threw 
+thrust thrust thrust 
+tread trodden trod 
+unbend unbent unbent 
+unbind unbound unbound 
+undercut undercut undercut 
+understand understood understood 
+undertake undertaken undertook 
+underwrite underwritten underwrote 
+undo undone undid 
+unfreeze unfrozen unfroze 
+unstick unstuck unstuck 
+unwind unwound unwound 
+uphold upheld upheld 
+upset upset upset 
+wake woken woke 
+waylay waylaid waylaid 
+wear worn wore 
+weave woven wove 
+wed wed wed 
+weep wept wept 
+wet wet wet 
+win won won 
+wind wound wound 
+withdraw withdrawn withdrew 
+withhold withheld withheld 
+withstand withstood withstood 
+wring wrung wrung 
+write written wrote 
